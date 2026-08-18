@@ -99,7 +99,6 @@ errors.
 
 Run the scripts from the project root in the following order:
 
-```bash
 python3 src/analysis.py
 python3 src/explore.py
 python3 src/driver_analysis.py
