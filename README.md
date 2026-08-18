@@ -49,7 +49,7 @@ Minute-level GPS, accelerometer and gyroscope readings.
 
 ### Dataset relationships
 
-```text
+
 Telemetry.Trip_ID
         ↓
 Trips.Trip_ID
